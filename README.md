@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoeAkpan28
+- 👋 Hi, I’m Joe Samuel Akpan
 - 👀 I’m interested in the fusion between Web3 and Data Analysis
 - 🌱 I’m currently learning smart contract analysis
 - 💞️ I’m looking to collaborate on any projects looking for a web3 data and finance analyst
