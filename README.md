@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Joe Samuel Akpan
-- 👀 I’m interested in the fusion between Web3 and Data Analysis
-- 🌱 I’m currently learning smart contract analysis
-- 💞️ I’m looking to collaborate on any projects looking for a web3 data and finance analyst
-- 📫 Reach me on X @JoeAkpan28
-- 😄 Pronouns: King
-- ⚡ Fun fact: If i go a day without analyzing my thoughts, i fear i might lose it.
+# Joe Akpan
+## Crypto Data Analyst | Financial Modeling | Blockchain Enthusiast
+Hi there! 👋 Welcome to my GitHub profile. I'm passionate about applying advanced data analysis and mathematical modeling techniques to uncover insights within blockchain technology and cryptocurrency investments. My projects bridge the gap between finance and technology, tackling market volatility, user behavior, and performance optimization in the crypto space.
 
-<!---
-JoeAkpan28/JoeAkpan28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## **🌟 Key Areas of Expertise**
+- **Data Analysis Tools:** SQL (Flipside and Dune), Advanced Microsoft Excel, and various crypto tools out there
+
+- **Mathematical Modeling:** Regression analysis, probability distributions, decision trees, optimization
+
+- **Financial Analysis:** Present and future value, descriptive statistics, volatility modeling
+
+- **Blockchain Knowledge:** Web3 technologies, transaction trends, cryptocurrency dynamics
+
+- **Data Visualization:** Dashboards and visual analytics (mention specific tools if applicable)
